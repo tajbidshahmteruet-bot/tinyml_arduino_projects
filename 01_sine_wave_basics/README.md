@@ -14,10 +14,11 @@ This project displays a sine wave on the 8x13 LED matrix of the Arduino UNO Q.
 - Embedded systems programming
 
 ## 📂 Code Location
-arduino/sine_wave_matrix/sine_wave_matrix.ino
+Arduino_Code\LED_Matrix_Display/LED_Matrix_Display.ino
 
 ## 🚀 Result
 The LED matrix shows a moving sine wave using real-time computation.
 
 ## 📸 Demo
-![Sine Wave Demo](results/Sine_Wave.mp4)
+![Sine Wave Demo](results/sine_wave.jpg)
+[Watch demo video](results/Sine_wave.mp4)
