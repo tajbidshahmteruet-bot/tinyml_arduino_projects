@@ -18,3 +18,6 @@ arduino/sine_wave_matrix/sine_wave_matrix.ino
 
 ## 🚀 Result
 The LED matrix shows a moving sine wave using real-time computation.
+
+## 📸 Demo
+![Sine Wave Demo](results/Sine_Wave.mp4)
