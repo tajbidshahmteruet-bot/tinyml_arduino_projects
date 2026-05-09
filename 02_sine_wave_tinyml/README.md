@@ -11,7 +11,7 @@ This repository documents the training of models for fitting the sinewave using 
 
 ## Results
 - First model output describes the training vs testing data representation using only 1-Hidden layer.
-<img src="02_sine_wave_tinyml/result/model_2_result.png" width="500">
+<img src="<img src="result/first_model_output.png" width="500">
 - model_2_result describe the result of 2 hidden layer of Neural Network.
 ![Second Model](results/model_2_result.png)
 
